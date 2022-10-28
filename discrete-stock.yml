@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: discrete-stock
+server:
+  port: 8082
+  
+trading:
+  app: Commodating Tradding software

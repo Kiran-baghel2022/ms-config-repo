@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: purchase-contract
+server:
+  port: 8081
+  
+trading:
+  app: Commodating Tradding software
+
+  
