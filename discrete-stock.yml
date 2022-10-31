@@ -1,6 +1,10 @@
 spring:
   application:
     name: discrete-stock
+  datasource:
+    url: jdbc:mysql://localhost:3306/cofcodb
+    username: root
+    password: welcome123
 server:
   port: 8082
   
